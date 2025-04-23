@@ -184,10 +184,6 @@ Apple Sign-In is only required for iOS apps and is mandatory for App Store appro
    - Check that your Expo app slug matches the redirect URI
    - Ensure you've enabled the correct APIs
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgements
 
 - [Expo Auth Session](https://docs.expo.dev/versions/latest/sdk/auth-session/)
